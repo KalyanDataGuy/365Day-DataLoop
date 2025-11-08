@@ -1,4 +1,4 @@
-# ☕ The 365-Day Data Loop  
+# ☕ The 365-Day Data Loop : Part I of the 365 DataLoop Series
 **by KalyanDataGuy**
 
 > For 364 days, we make coffee.  
